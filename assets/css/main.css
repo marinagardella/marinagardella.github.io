@@ -186,8 +186,8 @@ img {
 }
 
 .skills-subsection {
-  font-size: 20.8px;
-  font-size: 1.3rem;
+  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .section-heading {
@@ -403,8 +403,8 @@ img {
 }
 
 .experience-details {
-  font-size: 20.8px;
-  font-size: 1.3rem;
+  font-size: 20px;
+  font-size: 1.25rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

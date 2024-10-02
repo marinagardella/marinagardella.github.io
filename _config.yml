@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: marigardella
+github_username: marinagardella
 email: marigardella@gmail.com
 twitter_username: GardellaMarina
 

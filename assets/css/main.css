@@ -578,7 +578,9 @@ a {
     bottom: 15px;
   }
 }
+/* Force consistent text everywhere */
 .section p {
-  font-size: 1.05rem;
-  line-height: 1.6;
+  font-family: 'PT Sans', sans-serif !important;
+  font-size: 1.05rem !important;
+  line-height: 1.6 !important;
 }
